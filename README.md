@@ -1,8 +1,9 @@
 First Cpp Project Filled With My Programs As The Time Goes On.
 
-# List of Availiable Mini Programs.
+# List of Available Mini Programs.
 - Calculator.
 - Unit Converter.
+- Virtual Bank
 
 # List of Planned Features.
 
